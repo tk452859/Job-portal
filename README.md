@@ -43,7 +43,9 @@ It allows users to register, search & apply for jobs, and lets employers post/ma
 ---
 
 ## 📸 Screenshots
-(Add screenshots of your app here)
+[HOME]
+![Uploading Screenshot 2025-09-16 042539.png…]()
+<img width="1912" height="878" alt="Screenshot 2025-09-19 161952" src="https://github.com/user-attachments/assets/6ebfaf46-a585-41e1-8af8-0d0e18547d87" />
 
 ---
 
